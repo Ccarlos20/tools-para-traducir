@@ -1,0 +1,8025 @@
+{
+    "version": 1,
+    "caracteres": {
+        "あ": {
+            "categorias": [
+                "tres_trazos",
+                "aspas",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "め"
+            ]
+        },
+        "子": {
+            "categorias": [
+                "dos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "教",
+                "厚",
+                "季",
+                "存",
+                "字",
+                "孕",
+                "浮",
+                "好",
+                "乳",
+                "孵",
+                "遊"
+            ]
+        },
+        "宮": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "で": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "て"
+            ]
+        },
+        "う": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "っ",
+                "つ"
+            ]
+        },
+        "「": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "い": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "っ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "つ",
+                "う"
+            ]
+        },
+        "ま": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "も": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "猫": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "ち": {
+            "categorias": [
+                "dos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ら"
+            ]
+        },
+        "や": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "ゃ"
+            ]
+        },
+        "ん": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "扱": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "し": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "じ",
+                "乳"
+            ]
+        },
+        "な": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "よ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ょ"
+            ]
+        },
+        "ね": {
+            "categorias": [
+                "aspas",
+                "tres_trazos"
+            ],
+            "similares": [
+                "わ",
+                "れ"
+            ]
+        },
+        "」": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "と": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ど"
+            ]
+        },
+        "表": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "情": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "キ": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ギ"
+            ]
+        },
+        "ス": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ズ"
+            ]
+        },
+        "が": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "か"
+            ]
+        },
+        "た": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "だ"
+            ]
+        },
+        "の": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "め",
+                "ぬ"
+            ]
+        },
+        "だ": {
+            "categorias": [
+                "muchos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "た"
+            ]
+        },
+        "解": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "caja",
+                "curva"
+            ],
+            "similares": []
+        },
+        "釈": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "こ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "に",
+                "ご"
+            ]
+        },
+        "に": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "こ"
+            ]
+        },
+        "は": {
+            "categorias": [
+                "tres_trazos",
+                "check",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ば",
+                "ぱ"
+            ]
+        },
+        "、": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "漂": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "小"
+            ]
+        },
+        "泊": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "白"
+            ]
+        },
+        "者": {
+            "categorias": [
+                "escalera",
+                "cruzes",
+                "aspas",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "日"
+            ]
+        },
+        "。": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "れ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ね",
+                "わ"
+            ]
+        },
+        "か": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "が"
+            ]
+        },
+        "ら": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ち"
+            ]
+        },
+        "大": {
+            "categorias": [
+                "tres_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "駄",
+                "突",
+                "然",
+                "奇",
+                "模",
+                "戻",
+                "寄",
+                "状",
+                "奥",
+                "膜",
+                "裂",
+                "裏",
+                "犬",
+                "臭",
+                "因",
+                "騎"
+            ]
+        },
+        "切": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "彼": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "女": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "メ",
+                "嬉",
+                "始",
+                "妊",
+                "腰",
+                "威",
+                "姦",
+                "接",
+                "好",
+                "婦",
+                "娠",
+                "妄",
+                "安",
+                "嫌",
+                "要",
+                "努",
+                "姿",
+                "姫"
+            ]
+        },
+        "を": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "め": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "の",
+                "あ",
+                "ぬ"
+            ]
+        },
+        "く": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "ぐ"
+            ]
+        },
+        "て": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "で"
+            ]
+        },
+        "す": {
+            "categorias": [
+                "dos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ず"
+            ]
+        },
+        "さ": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "き",
+                "ざ"
+            ]
+        },
+        "カ": {
+            "categorias": [
+                "dos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "メ": {
+            "categorias": [
+                "dos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "女",
+                "気",
+                "区",
+                "図",
+                "認",
+                "脳",
+                "誕",
+                "凶",
+                "胸",
+                "又",
+                "便"
+            ]
+        },
+        "ラ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "見": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "現",
+                "覚"
+            ]
+        },
+        "名": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "夕",
+                "ロ"
+            ]
+        },
+        "前": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "年": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "curva"
+            ],
+            "similares": []
+        },
+        "齢": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "言": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "み": {
+            "categorias": [
+                "dos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "千": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "重",
+                "舌"
+            ]
+        },
+        "咲": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "estrella",
+                "izquierda"
+            ],
+            "similares": [
+                "天"
+            ]
+        },
+        "代": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "・": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "そ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ぞ"
+            ]
+        },
+        "私": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "ム",
+                "禾"
+            ]
+        },
+        "一": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "え": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "お": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "疲": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "杏": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "山": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "逆",
+                "謡"
+            ]
+        },
+        "耳": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "聞",
+                "最",
+                "撮",
+                "厳",
+                "取",
+                "恥"
+            ]
+        },
+        "触": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "ご": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "こ"
+            ]
+        },
+        "気": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "curva"
+            ],
+            "similares": [
+                "メ"
+            ]
+        },
+        "持": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "わ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ね",
+                "れ"
+            ]
+        },
+        "起": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "mismoinicio3"
+            ],
+            "similares": [
+                "走"
+            ]
+        },
+        "き": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "さ",
+                "ぎ"
+            ]
+        },
+        "じ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "し"
+            ]
+        },
+        "三": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ニ"
+            ]
+        },
+        "ゆ": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "ゅ"
+            ]
+        },
+        "先": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "生": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva"
+            ],
+            "similares": [
+                "醒",
+                "性",
+                "産"
+            ]
+        },
+        "悪": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "駄": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "estrella",
+                "lineas",
+                "mismo_inicio_6"
+            ],
+            "similares": [
+                "大",
+                "馬"
+            ]
+        },
+        "目": {
+            "categorias": [
+                "tres_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "相",
+                "着"
+            ]
+        },
+        "分": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "る": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ろ"
+            ]
+        },
+        "止": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "上",
+                "歳",
+                "齢",
+                "整",
+                "齡",
+                "歩",
+                "雌",
+                "証",
+                "誕"
+            ]
+        },
+        "ト": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ド"
+            ]
+        },
+        "ツ": {
+            "categorias": [
+                "tres_trazos",
+                "caritas"
+            ],
+            "similares": []
+        },
+        "つ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "っ",
+                "う",
+                "づ"
+            ]
+        },
+        "け": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "ど": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "と"
+            ]
+        },
+        "丈": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "夫": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "estrella"
+            ],
+            "similares": [
+                "僕",
+                "関",
+                "短",
+                "快",
+                "潜",
+                "狭"
+            ]
+        },
+        "寒": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "苦": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "ロ",
+                "十"
+            ]
+        },
+        "手": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "グ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": []
+        },
+        "レ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": []
+        },
+        "緒": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera",
+                "aspas",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "日",
+                "糸"
+            ]
+        },
+        "楽": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "嬉": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "女",
+                "土"
+            ]
+        },
+        "へ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "ベ",
+                "べ",
+                "ペ",
+                "ヘ"
+            ]
+        },
+        "ば": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_",
+                "check"
+            ],
+            "similares": [
+                "は",
+                "ぱ"
+            ]
+        },
+        "知": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "curva",
+                "derecha"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "り": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "ゃ": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "や"
+            ]
+        },
+        "昔": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "日"
+            ]
+        },
+        "夢": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "夕"
+            ]
+        },
+        "本": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "体"
+            ]
+        },
+        "当": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ヨ"
+            ]
+        },
+        "魔": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "法": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "少": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "歩",
+                "小"
+            ]
+        },
+        "不": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "思": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "議": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "今": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "ぱ": {
+            "categorias": [
+                "tres_trazos",
+                "handakuten_",
+                "check"
+            ],
+            "similares": [
+                "ば",
+                "は"
+            ]
+        },
+        "ろ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "る"
+            ]
+        },
+        "僕": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "estrella",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "叶": {
+            "categorias": [
+                "tres_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "君": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "力": {
+            "categorias": [
+                "dos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "カ",
+                "動",
+                "働",
+                "努",
+                "男",
+                "加",
+                "効",
+                "ガ",
+                "勢",
+                "勝",
+                "脇",
+                "虜",
+                "筋"
+            ]
+        },
+        "ケ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ゲ"
+            ]
+        },
+        "月": {
+            "categorias": [
+                "tres_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "期",
+                "崩",
+                "潮",
+                "胎",
+                "膜",
+                "膨",
+                "望",
+                "勝",
+                "脇",
+                "服",
+                "腹",
+                "腰",
+                "脳",
+                "胞",
+                "撤",
+                "散",
+                "胸",
+                "筋",
+                "肌"
+            ]
+        },
+        "後": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "タ": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "多",
+                "ダ"
+            ]
+        },
+        "面": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "白": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "泊"
+            ]
+        },
+        "ふ": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "ぷ",
+                "ぶ"
+            ]
+        },
+        "数": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "日": {
+            "categorias": [
+                "tres_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "者",
+                "緒",
+                "昔",
+                "音",
+                "響",
+                "暑",
+                "惜",
+                "普",
+                "潜",
+                "諸"
+            ]
+        },
+        "呼": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "び": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "ひ",
+                "ぴ"
+            ]
+        },
+        "集": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "何": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "超": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero",
+                "mismoinicio3"
+            ],
+            "similares": [
+                "走"
+            ]
+        },
+        "豪": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "華": {
+            "categorias": [
+                "caja",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "部": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "屋": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "用": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "捕",
+                "備"
+            ]
+        },
+        "意": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "オ": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "閉"
+            ]
+        },
+        "時": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "derecha",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸",
+                "土"
+            ]
+        },
+        "聞": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "ambos"
+            ],
+            "similares": [
+                "耳"
+            ]
+        },
+        "出": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "真": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "珠": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "考": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "始": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "女",
+                "ム",
+                "ロ"
+            ]
+        },
+        "ン": {
+            "categorias": [
+                "dos_trazos",
+                "caritas"
+            ],
+            "similares": []
+        },
+        "ジ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_",
+                "caritas"
+            ],
+            "similares": [
+                "シ"
+            ]
+        },
+        "マ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "野",
+                "痛"
+            ]
+        },
+        "ア": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "早": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "来": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "番"
+            ]
+        },
+        "死": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "mismo_inicio_8"
+            ],
+            "similares": [
+                "夕"
+            ]
+        },
+        "戦": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "aspas",
+                "lineas",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "工": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "ノ": {
+            "categorias": [
+                "un_trazo",
+                "caritas"
+            ],
+            "similares": []
+        },
+        "ル": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "ミ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "ー": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": []
+        },
+        "夕": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "名",
+                "夢",
+                "死",
+                "外",
+                "殖",
+                "瞬",
+                "裂",
+                "例"
+            ]
+        },
+        "吸": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "込": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": [
+                "入"
+            ]
+        },
+        "む": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "デ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "テ"
+            ]
+        },
+        "ャ": {
+            "categorias": [
+                "dos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ヤ"
+            ]
+        },
+        "ブ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "プ",
+                "フ"
+            ]
+        },
+        "ず": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "す"
+            ]
+        },
+        "柊": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "突": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "然": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "コ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ゴ"
+            ]
+        },
+        "的": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "物": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva"
+            ],
+            "similares": []
+        },
+        "誘": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "承": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "諾": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "ょ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "よ"
+            ]
+        },
+        "違": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "和": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "ロ",
+                "禾"
+            ]
+        },
+        "感": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "戚": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "ぽ": {
+            "categorias": [
+                "muchos_trazos",
+                "handakuten_",
+                "check"
+            ],
+            "similares": [
+                "ほ",
+                "ぼ"
+            ]
+        },
+        "党": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "現": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": [
+                "見"
+            ]
+        },
+        "パ": {
+            "categorias": [
+                "dos_trazos",
+                "handakuten_"
+            ],
+            "similares": [
+                "バ",
+                "ハ"
+            ]
+        },
+        "ぬ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "の",
+                "め"
+            ]
+        },
+        "会": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "馬": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "駄",
+                "験",
+                "駆",
+                "騎",
+                "驚"
+            ]
+        },
+        "鹿": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "馴": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "染": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "方": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "奇": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "想": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "天": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "咲",
+                "送"
+            ]
+        },
+        "外": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "mismo_inicio_8"
+            ],
+            "similares": [
+                "夕"
+            ]
+        },
+        "露": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "多": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "タ"
+            ]
+        },
+        "最": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": [
+                "耳",
+                "又"
+            ]
+        },
+        "高": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "ベ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "へ",
+                "べ",
+                "ペ"
+            ]
+        },
+        "ゼ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "セ"
+            ]
+        },
+        "中": {
+            "categorias": [
+                "tres_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "剣": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "derecha"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "幹": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "mismo_inicio_10"
+            ],
+            "similares": [
+                "十",
+                "干"
+            ]
+        },
+        "武": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "器": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "使": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "調": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "教": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "derecha"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "様": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "惠": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "変": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "属": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "性": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva"
+            ],
+            "similares": [
+                "生"
+            ]
+        },
+        "覚": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "見"
+            ]
+        },
+        "醒": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "生"
+            ]
+        },
+        "イ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ィ"
+            ]
+        },
+        "ホ": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ボ",
+                "ポ",
+                "余"
+            ]
+        },
+        "シ": {
+            "categorias": [
+                "tres_trazos",
+                "caritas"
+            ],
+            "similares": [
+                "ジ"
+            ]
+        },
+        "ヤ": {
+            "categorias": [
+                "dos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ャ"
+            ]
+        },
+        "撮": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "耳"
+            ]
+        },
+        "動": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "画": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "ロ": {
+            "categorias": [
+                "dos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "名",
+                "言",
+                "杏",
+                "苦",
+                "部",
+                "器",
+                "始",
+                "溶",
+                "話",
+                "知",
+                "和",
+                "加",
+                "含",
+                "合",
+                "口",
+                "胎",
+                "臨",
+                "喜",
+                "結",
+                "格",
+                "舌",
+                "台",
+                "落",
+                "石"
+            ]
+        },
+        "ボ": {
+            "categorias": [
+                "muchos_trazos",
+                "dakuten_",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ホ",
+                "ポ"
+            ]
+        },
+        "ッ": {
+            "categorias": [
+                "tres_trazos",
+                "caritas"
+            ],
+            "similares": []
+        },
+        "家": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "リ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "り",
+                "刺",
+                "前",
+                "別",
+                "裂",
+                "利",
+                "側",
+                "剣",
+                "則",
+                "例",
+                "判",
+                "製"
+            ]
+        },
+        "働": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "caja",
+                "izquierda",
+                "derecha"
+            ],
+            "similares": [
+                "力",
+                "土"
+            ]
+        },
+        "せ": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ぜ"
+            ]
+        },
+        "事": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "伝": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "申": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "件": {
+            "categorias": [
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "ざ": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "さ"
+            ]
+        },
+        "命": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "ク": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "無": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "人": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "吸",
+                "姿",
+                "入",
+                "決",
+                "飲",
+                "臨",
+                "歓",
+                "欲",
+                "吹",
+                "走",
+                "映",
+                "次",
+                "火"
+            ]
+        },
+        "我": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "慢": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "服": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "又"
+            ]
+        },
+        "地": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "mismo_inicio_5"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "厚": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "排": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "熱": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "誰": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "escalera",
+                "izquierda",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "仲": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "良": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "ゲ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "ケ"
+            ]
+        },
+        "世": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "界": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "サ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ザ"
+            ]
+        },
+        "テ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "デ"
+            ]
+        },
+        "ィ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "イ"
+            ]
+        },
+        "実": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "冷": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "ウ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "特": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "derecha",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "域": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "季": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "節": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "冬": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "街": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "離": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "escalera",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "森": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "雪": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ヨ"
+            ]
+        },
+        "積": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "禾"
+            ]
+        },
+        "響": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "音",
+                "日"
+            ]
+        },
+        "乾": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "mismo_inicio_10"
+            ],
+            "similares": [
+                "車"
+            ]
+        },
+        "音": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera"
+            ],
+            "similares": [
+                "響",
+                "日"
+            ]
+        },
+        "混": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "ぎ": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "き"
+            ]
+        },
+        "声": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "艶": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "半": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "判"
+            ]
+        },
+        "ぐ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "く"
+            ]
+        },
+        "盛": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "相": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "目",
+                "箱",
+                "木"
+            ]
+        },
+        "ム": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "後",
+                "法",
+                "伝",
+                "始",
+                "強",
+                "私",
+                "能",
+                "脚",
+                "率",
+                "転",
+                "広",
+                "胎",
+                "機",
+                "魅",
+                "幻",
+                "去",
+                "惨",
+                "雄",
+                "育",
+                "糸",
+                "流",
+                "台",
+                "撤",
+                "濁",
+                "態",
+                "怯"
+            ]
+        },
+        "ダ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "タ"
+            ]
+        },
+        "ズ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "ス"
+            ]
+        },
+        "ナ": {
+            "categorias": [
+                "dos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "チ"
+            ]
+        },
+        "ポ": {
+            "categorias": [
+                "muchos_trazos",
+                "handakuten_",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ボ",
+                "ホ"
+            ]
+        },
+        "モ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "模": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "escalera",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "大",
+                "木"
+            ]
+        },
+        "箱": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "相"
+            ]
+        },
+        "べ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "へ",
+                "ベ",
+                "ペ"
+            ]
+        },
+        "存": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "在": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "青": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "ぜ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_",
+                "cruzes"
+            ],
+            "similares": [
+                "せ"
+            ]
+        },
+        "ほ": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "check"
+            ],
+            "similares": [
+                "ぽ",
+                "ぼ"
+            ]
+        },
+        "水": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "氷",
+                "泳",
+                "フ",
+                "線"
+            ]
+        },
+        "氷": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "水"
+            ]
+        },
+        "溶": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "バ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "パ",
+                "ハ"
+            ]
+        },
+        "愛": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "幅": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "肉": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "付": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "izquierda",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "体": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "本"
+            ]
+        },
+        "故": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "強": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "厳": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "escalera"
+            ],
+            "similares": [
+                "耳"
+            ]
+        },
+        "薄": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "着": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": [
+                "目"
+            ]
+        },
+        "ソ": {
+            "categorias": [
+                "dos_trazos",
+                "caritas"
+            ],
+            "similares": []
+        },
+        "上": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "袖": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "要": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "足": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "履": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "色": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "curva"
+            ],
+            "similares": []
+        },
+        "味": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "成": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "長": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "期": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "ぼ": {
+            "categorias": [
+                "muchos_trazos",
+                "dakuten_",
+                "cruzes"
+            ],
+            "similares": [
+                "ぽ",
+                "ほ"
+            ]
+        },
+        "内": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "々": {
+            "categorias": [
+                "tres_trazos",
+                "curva"
+            ],
+            "similares": []
+        },
+        "発": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "達": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "全": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "裸": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "捕": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "用"
+            ]
+        },
+        "個": {
+            "categorias": [
+                "curva",
+                "muchos_trazos",
+                "caja",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "値": {
+            "categorias": [
+                "curva",
+                "muchos_trazos",
+                "cruzes",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "身": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "注": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": [
+                "主"
+            ]
+        },
+        "努": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "力",
+                "又",
+                "女"
+            ]
+        },
+        "歳": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "豊": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "交": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "尾": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "専": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "作": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "げ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": []
+        },
+        "男": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "経": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "土",
+                "糸",
+                "又"
+            ]
+        },
+        "験": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "lineas",
+                "mismo_inicio_6"
+            ],
+            "similares": [
+                "馬"
+            ]
+        },
+        "問": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "ambos"
+            ],
+            "similares": []
+        },
+        "抱": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "弱": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "殖": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "夕",
+                "十"
+            ]
+        },
+        "行": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "為": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "伴": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "刺": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "激": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "泌": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "影": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "ド": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "ト"
+            ]
+        },
+        "草": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "チ": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ナ"
+            ]
+        },
+        "話": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "息": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "周": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "辺": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "プ": {
+            "categorias": [
+                "un_trazo",
+                "handakuten_"
+            ],
+            "similares": [
+                "ブ",
+                "フ"
+            ]
+        },
+        "住": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva",
+                "izquierda",
+                "derecha"
+            ],
+            "similares": [
+                "主"
+            ]
+        },
+        "理": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "適": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "境": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "cruzes",
+                "mismo_inicio_5"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "増": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes",
+                "mismo_inicio_5"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "加": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": [
+                "ロ",
+                "力"
+            ]
+        },
+        "珍": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "戻": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "点": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "岩": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "curva"
+            ],
+            "similares": []
+        },
+        "格": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "aspas",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木",
+                "ロ"
+            ]
+        },
+        "闘": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "cruzes",
+                "ambos"
+            ],
+            "similares": []
+        },
+        "自": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "読": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "探": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "速": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "向": {
+            "categorias": [
+                "tres_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "対": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "derecha",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "獲": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "escalera",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "腹": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "ュ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ユ"
+            ]
+        },
+        "寝": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "宿": {
+            "categorias": [
+                "curva",
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "震": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "恐": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "奮": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes",
+                "curva"
+            ],
+            "similares": []
+        },
+        "関": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "ambos"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "汗": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "cruzes"
+            ],
+            "similares": [
+                "干"
+            ]
+        },
+        "湯": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "curva",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "フ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "ブ",
+                "プ",
+                "泳",
+                "水"
+            ]
+        },
+        "ェ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "惰",
+                "空",
+                "差",
+                "網",
+                "試"
+            ]
+        },
+        "含": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "効": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "能": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "引": {
+            "categorias": [
+                "tres_trazos",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "寄": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "惰": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "cruzes"
+            ],
+            "similares": [
+                "ェ"
+            ]
+        },
+        "焦": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "連": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "空": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ェ"
+            ]
+        },
+        "番": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "来"
+            ]
+        },
+        "字": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "開": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "ambos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "脚": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "ム",
+                "十"
+            ]
+        },
+        "短": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "estrella",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "晒": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "暑": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "日"
+            ]
+        },
+        "下": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "毛": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "惜": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "cuadrilatero",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "日"
+            ]
+        },
+        "ピ": {
+            "categorias": [
+                "dos_trazos",
+                "handakuten_"
+            ],
+            "similares": [
+                "ヒ",
+                "ビ"
+            ]
+        },
+        "閉": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "オ"
+            ]
+        },
+        "ワ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": []
+        },
+        "ヒ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ピ",
+                "ビ",
+                "態"
+            ]
+        },
+        "姿": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "人",
+                "女"
+            ]
+        },
+        "挑": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "隠": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "依": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": []
+        },
+        "入": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "込",
+                "人"
+            ]
+        },
+        "合": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "危": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "curva"
+            ],
+            "similares": []
+        },
+        "険": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "間": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "ambos"
+            ],
+            "similares": []
+        },
+        "妊": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "女",
+                "壬"
+            ]
+        },
+        "娠": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "セ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ゼ"
+            ]
+        },
+        "率": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "cruzes"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "敏": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "curva",
+                "caja",
+                "cruzes",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "腰": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "escalera",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "女",
+                "月"
+            ]
+        },
+        "振": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "射": {
+            "categorias": [
+                "derecha",
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "精": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "消": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "耗": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "常": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "識": {
+            "categorias": [
+                "izquierda",
+                "aspas",
+                "cruzes",
+                "escalera",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "孕": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "普": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "日"
+            ]
+        },
+        "段": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "慣": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "異": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "種": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "壬",
+                "土",
+                "禾"
+            ]
+        },
+        "坂": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "準": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "escalera",
+                "curva",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "備": {
+            "categorias": [
+                "izquierda",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "用"
+            ]
+        },
+        "整": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "小": {
+            "categorias": [
+                "tres_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "少",
+                "隙",
+                "漂",
+                "暴",
+                "原",
+                "願"
+            ]
+        },
+        "誤": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "lineas",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "赤": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "ペ": {
+            "categorias": [
+                "un_trazo",
+                "handakuten_"
+            ],
+            "similares": [
+                "へ",
+                "ベ",
+                "べ"
+            ]
+        },
+        "利": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "derecha",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "リ",
+                "禾"
+            ]
+        },
+        "状": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "況": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "負": {
+            "categorias": [
+                "escalera",
+                "curva",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "細": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "攻": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "curva",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "撃": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "ヨ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "当",
+                "ョ",
+                "雪",
+                "婦",
+                "浸"
+            ]
+        },
+        "ガ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "倍": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "化": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "得": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "ザ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "サ"
+            ]
+        },
+        "確": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "通": {
+            "categorias": [
+                "izquierda",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "齡": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "亜": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "崩": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "快": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "estrella",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "富": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "未": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "果": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "抜": {
+            "categorias": [
+                "izquierda",
+                "aspas",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "群": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "急": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "所": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "形": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "勢": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "逆": {
+            "categorias": [
+                "izquierda",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "山"
+            ]
+        },
+        "転": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "mismo_inicio_10"
+            ],
+            "similares": [
+                "ム",
+                "車"
+            ]
+        },
+        "潮": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "月",
+                "十"
+            ]
+        },
+        "吹": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cuadrilatero",
+                "curva",
+                "derecha"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "ギ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_",
+                "cruzes"
+            ],
+            "similares": [
+                "キ"
+            ]
+        },
+        "ゴ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "コ"
+            ]
+        },
+        "威": {
+            "categorias": [
+                "derecha",
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "敗": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "curva"
+            ],
+            "similares": []
+        },
+        "北": {
+            "categorias": [
+                "muchos_trazos",
+                "derecha"
+            ],
+            "similares": []
+        },
+        "宣": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "姦": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "芽": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "港": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "志": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土",
+                "心"
+            ]
+        },
+        "新": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "義": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "書": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "謡": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "山"
+            ]
+        },
+        "繰": {
+            "categorias": [
+                "cuadrilatero",
+                "cruzes",
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "木",
+                "糸"
+            ]
+        },
+        "広": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "以": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "深": {
+            "categorias": [
+                "lineas",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "浮": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "陸": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土",
+                "十"
+            ]
+        },
+        "ニ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "三"
+            ]
+        },
+        "鼓": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "土",
+                "支"
+            ]
+        },
+        "察": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "兆": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "逃"
+            ]
+        },
+        "産": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "生"
+            ]
+        },
+        "龍": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "優": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "escalera",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "秀": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "完": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "口": {
+            "categorias": [
+                "dos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "説": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "座": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "奥": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "estrella",
+                "cruzes"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "押": {
+            "categorias": [
+                "izquierda",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "緩": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "結": {
+            "categorias": [
+                "cuadrilatero",
+                "cruzes",
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "土",
+                "ロ",
+                "糸"
+            ]
+        },
+        "跡": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "胎": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "ム",
+                "月",
+                "ロ"
+            ]
+        },
+        "鳴": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "lineas",
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "潜": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "estrella"
+            ],
+            "similares": [
+                "夫",
+                "日"
+            ]
+        },
+        "約": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "買": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "亀": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "curva"
+            ],
+            "similares": []
+        },
+        "頭": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "膜": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "estrella",
+                "cruzes",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "大"
+            ]
+        },
+        "粘": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "同": {
+            "categorias": [
+                "tres_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "士": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "土",
+                "地",
+                "境",
+                "増",
+                "城"
+            ]
+        },
+        "接": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "aspas",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "初": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "壁": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "土",
+                "十"
+            ]
+        },
+        "位": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "置": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "液": {
+            "categorias": [
+                "lineas",
+                "izquierda",
+                "muchos_trazos",
+                "aspas",
+                "curva"
+            ],
+            "similares": []
+        },
+        "ゅ": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "ゆ"
+            ]
+        },
+        "瞬": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "夕"
+            ]
+        },
+        "隙": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "小"
+            ]
+        },
+        "絶": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "好": {
+            "categorias": [
+                "parecidos_a_t",
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "子",
+                "女"
+            ]
+        },
+        "機": {
+            "categorias": [
+                "aspas",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "ム",
+                "木"
+            ]
+        },
+        "余": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ホ"
+            ]
+        },
+        "裕": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "ひ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "び",
+                "ぴ"
+            ]
+        },
+        "寸": {
+            "categorias": [
+                "tres_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "持",
+                "時",
+                "特",
+                "付",
+                "専",
+                "対",
+                "得",
+                "討",
+                "待",
+                "尊",
+                "耐",
+                "噂",
+                "団"
+            ]
+        },
+        "土": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "嬉",
+                "時",
+                "働",
+                "街",
+                "声",
+                "理",
+                "経",
+                "周",
+                "陸",
+                "鼓",
+                "座",
+                "壁",
+                "結",
+                "志",
+                "士",
+                "堕",
+                "量",
+                "膨",
+                "重",
+                "在",
+                "喜",
+                "野",
+                "場",
+                "報",
+                "仕",
+                "敵",
+                "壷",
+                "十",
+                "種",
+                "壺",
+                "怯"
+            ]
+        },
+        "限": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "近": {
+            "categorias": [
+                "izquierda",
+                "parecidos_a_t",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "決": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "人",
+                "十"
+            ]
+        },
+        "諸": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "日",
+                "十"
+            ]
+        },
+        "刃": {
+            "categorias": [
+                "tres_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "歩": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "cruzes"
+            ],
+            "similares": [
+                "止",
+                "少"
+            ]
+        },
+        "魅": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "ム",
+                "十"
+            ]
+        },
+        "堕": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "頃": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "求": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "敬": {
+            "categorias": [
+                "curva",
+                "cuadrilatero",
+                "aspas",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "陵": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "量": {
+            "categorias": [
+                "cruzes",
+                "escalera",
+                "caja",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "ョ": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": [
+                "ヨ"
+            ]
+        },
+        "雑": {
+            "categorias": [
+                "curva",
+                "cruzes",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "魚": {
+            "categorias": [
+                "lineas",
+                "curva",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "構": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "飲": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "干": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "許",
+                "報",
+                "癖",
+                "汗",
+                "幹",
+                "評"
+            ]
+        },
+        "美": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "濃": {
+            "categorias": [
+                "lineas",
+                "aspas",
+                "cruzes",
+                "caja",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "臨": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera",
+                "curva"
+            ],
+            "similares": [
+                "人",
+                "ロ"
+            ]
+        },
+        "婦": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "女",
+                "ヨ"
+            ]
+        },
+        "膨": {
+            "categorias": [
+                "lineas",
+                "cruzes",
+                "cuadrilatero",
+                "muchos_trazos",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "土"
+            ]
+        },
+        "許": {
+            "categorias": [
+                "izquierda",
+                "cruzes",
+                "curva",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "干"
+            ]
+        },
+        "卵": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "管": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "curva"
+            ],
+            "similares": []
+        },
+        "巣": {
+            "categorias": [
+                "lineas",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "重": {
+            "categorias": [
+                "cruzes",
+                "caja",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "千",
+                "土"
+            ]
+        },
+        "非": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "歓": {
+            "categorias": [
+                "muchos_trazos",
+                "curva",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "喜": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "ロ",
+                "土"
+            ]
+        },
+        "ハ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "パ",
+                "バ"
+            ]
+        },
+        "悦": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "文": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "雌": {
+            "categorias": [
+                "escalera",
+                "cruzes",
+                "curva",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "稚": {
+            "categorias": [
+                "escalera",
+                "curva",
+                "muchos_trazos",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "禾",
+                "車"
+            ]
+        },
+        "野": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "土",
+                "マ"
+            ]
+        },
+        "傷": {
+            "categorias": [
+                "izquierda",
+                "curva",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "悔": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "満": {
+            "categorias": [
+                "lineas",
+                "escalera",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "幻": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "減": {
+            "categorias": [
+                "lineas",
+                "aspas",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "役": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "顔": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "ヘ": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": [
+                "へ"
+            ]
+        },
+        "終": {
+            "categorias": [
+                "parecidos_a_t",
+                "lineas",
+                "curva",
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "場": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "mismo_inicio_5"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "去": {
+            "categorias": [
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ム",
+                "十"
+            ]
+        },
+        "韻": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "浸": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": [
+                "ヨ",
+                "又"
+            ]
+        },
+        "ビ": {
+            "categorias": [
+                "dos_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "ヒ",
+                "ピ"
+            ]
+        },
+        "攣": {
+            "categorias": [
+                "cuadrilatero",
+                "lineas",
+                "cruzes",
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "逃": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "兆"
+            ]
+        },
+        "汚": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "百": {
+            "categorias": [
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "信": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "泳": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "水",
+                "フ"
+            ]
+        },
+        "回": {
+            "categorias": [
+                "tres_trazos",
+                "caja",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "望": {
+            "categorias": [
+                "cruzes",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "梅": {
+            "categorias": [
+                "caja",
+                "cruzes",
+                "curva",
+                "muchos_trazos",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "恋": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "乙": {
+            "categorias": [
+                "un_trazo"
+            ],
+            "similares": []
+        },
+        "翌": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "昨": {
+            "categorias": [
+                "izquierda",
+                "curva",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "返": {
+            "categorias": [
+                "izquierda",
+                "aspas",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "討": {
+            "categorias": [
+                "cuadrilatero",
+                "parecidos_a_t",
+                "lineas",
+                "izquierda",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "度": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "遺": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "escalera",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "報": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "土",
+                "干",
+                "又"
+            ]
+        },
+        "波": {
+            "categorias": [
+                "aspas",
+                "cruzes",
+                "escalera",
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "打": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "線": {
+            "categorias": [
+                "escalera",
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "水",
+                "糸"
+            ]
+        },
+        "津": {
+            "categorias": [
+                "lineas",
+                "cruzes",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "証": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "惨": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "仕": {
+            "categorias": [
+                "izquierda",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "遭": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "遇": {
+            "categorias": [
+                "izquierda",
+                "caja",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "勝": {
+            "categorias": [
+                "lineas",
+                "escalera",
+                "cruzes",
+                "aspas",
+                "muchos_trazos",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "力"
+            ]
+        },
+        "狭": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "aspas",
+                "cruzes",
+                "estrella"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "溢": {
+            "categorias": [
+                "lineas",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "づ": {
+            "categorias": [
+                "un_trazo",
+                "dakuten_"
+            ],
+            "similares": [
+                "つ"
+            ]
+        },
+        "犯": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": []
+        },
+        "他": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "区": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "メ"
+            ]
+        },
+        "別": {
+            "categorias": [
+                "derecha",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "旬": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "敵": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "aspas",
+                "curva"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "乳": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t",
+                "lineas"
+            ],
+            "similares": [
+                "子",
+                "し"
+            ]
+        },
+        "供": {
+            "categorias": [
+                "izquierda",
+                "escalera",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "欲": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "derecha"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "母": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "蔵": {
+            "categorias": [
+                "derecha",
+                "escalera",
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "脇": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "力"
+            ]
+        },
+        "待": {
+            "categorias": [
+                "izquierda",
+                "parecidos_a_t",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "寸",
+                "十"
+            ]
+        },
+        "複": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "支": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "又",
+                "十",
+                "鼓",
+                "技"
+            ]
+        },
+        "主": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "住",
+                "注"
+            ]
+        },
+        "尊": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "escalera",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "取": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": [
+                "耳",
+                "又"
+            ]
+        },
+        "匹": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "図": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "caja"
+            ],
+            "similares": [
+                "メ"
+            ]
+        },
+        "据": {
+            "categorias": [
+                "izquierda",
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "差": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ェ"
+            ]
+        },
+        "暴": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "小"
+            ]
+        },
+        "耐": {
+            "categorias": [
+                "parecidos_a_t",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "ぷ": {
+            "categorias": [
+                "muchos_trazos",
+                "handakuten_",
+                "lineas"
+            ],
+            "similares": [
+                "ふ",
+                "ぶ"
+            ]
+        },
+        "炸": {
+            "categorias": [
+                "muchos_trazos",
+                "curva"
+            ],
+            "similares": []
+        },
+        "裂": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "夕",
+                "リ",
+                "大"
+            ]
+        },
+        "悟": {
+            "categorias": [
+                "izquierda",
+                "cuadrilatero",
+                "cruzes",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "壷": {
+            "categorias": [
+                "escalera",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "網": {
+            "categorias": [
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "ェ",
+                "糸"
+            ]
+        },
+        "羅": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "mismoinicio1",
+                "cruzes",
+                "curva"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "虜": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "力"
+            ]
+        },
+        "癖": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "干"
+            ]
+        },
+        "認": {
+            "categorias": [
+                "izquierda",
+                "lineas",
+                "aspas",
+                "cuadrilatero",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "メ",
+                "心"
+            ]
+        },
+        "族": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": []
+        },
+        "植": {
+            "categorias": [
+                "mismoinicio2",
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "雄": {
+            "categorias": [
+                "parecidos_a_t",
+                "escalera",
+                "curva",
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "育": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "走": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "人",
+                "十",
+                "起",
+                "超"
+            ]
+        },
+        "首": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "ぶ": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "dakuten_"
+            ],
+            "similares": [
+                "ふ",
+                "ぷ"
+            ]
+        },
+        "裏": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "十": {
+            "categorias": [
+                "dos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土",
+                "苦",
+                "規",
+                "個",
+                "値",
+                "殖",
+                "陸",
+                "壁",
+                "潮",
+                "赤",
+                "脚",
+                "決",
+                "諸",
+                "魅",
+                "陵",
+                "去",
+                "待",
+                "走",
+                "幹",
+                "車",
+                "直",
+                "由",
+                "都",
+                "卑",
+                "支"
+            ]
+        },
+        "規": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "惚": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": [
+                "心"
+            ]
+        },
+        "叩": {
+            "categorias": [
+                "dos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "頂": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "parecidos_a_t"
+            ],
+            "similares": []
+        },
+        "脈": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "壬": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "妊",
+                "種",
+                "鍛",
+                "窯"
+            ]
+        },
+        "禾": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "利",
+                "私",
+                "和",
+                "積",
+                "種",
+                "稚"
+            ]
+        },
+        "車": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "転",
+                "十",
+                "稚",
+                "乾",
+                "軍"
+            ]
+        },
+        "木": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "繰",
+                "構",
+                "柊",
+                "様",
+                "相",
+                "模",
+                "格",
+                "機",
+                "梅",
+                "植",
+                "株",
+                "保",
+                "械",
+                "極",
+                "菜",
+                "採",
+                "米",
+                "製",
+                "困"
+            ]
+        },
+        "糸": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "緒",
+                "ム",
+                "経",
+                "細",
+                "繰",
+                "緩",
+                "結",
+                "約",
+                "絶",
+                "終",
+                "攣",
+                "線",
+                "網",
+                "羅",
+                "紛",
+                "継",
+                "繁",
+                "系",
+                "係",
+                "緑"
+            ]
+        },
+        "放": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "curva"
+            ],
+            "similares": []
+        },
+        "防": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "海": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "curva",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "沈": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "配": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "偶": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "直": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "株": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "curva",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "流": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "映": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "像": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "脳": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "メ",
+                "月"
+            ]
+        },
+        "受": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "妄": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "誕": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "izquierda",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "メ",
+                "止"
+            ]
+        },
+        "胞": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "舌": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "千",
+                "ロ"
+            ]
+        },
+        "台": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ",
+                "ム"
+            ]
+        },
+        "犬": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "撤": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "aspas",
+                "curva",
+                "izquierda"
+            ],
+            "similares": [
+                "ム",
+                "月"
+            ]
+        },
+        "散": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "側": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "由": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "進": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "臭": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "濁": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva",
+                "lineas"
+            ],
+            "similares": [
+                "ム"
+            ]
+        },
+        "球": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "紛": {
+            "categorias": [
+                "muchos_trazos",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "謎": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": [
+                "米"
+            ]
+        },
+        "原": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "小"
+            ]
+        },
+        "因": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "estrella"
+            ],
+            "similares": [
+                "大"
+            ]
+        },
+        "元": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "凶": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "メ"
+            ]
+        },
+        "従": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "係": {
+            "categorias": [
+                "muchos_trazos",
+                "izquierda"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "保": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero",
+                "izquierda"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "都": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "定": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "乗": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "壺": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "ォ": {
+            "categorias": [
+                "tres_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "貌": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "質": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "則": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "リ"
+            ]
+        },
+        "例": {
+            "categorias": [
+                "izquierda"
+            ],
+            "similares": [
+                "夕",
+                "リ"
+            ]
+        },
+        "孵": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "選": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "械": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "評": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": [
+                "干"
+            ]
+        },
+        "噂": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "escalera",
+                "caja",
+                "cruzes",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "極": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "aspas",
+                "mismoinicio2"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "継": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸",
+                "米"
+            ]
+        },
+        "繁": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "caja",
+                "cruzes",
+                "curva"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "囲": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "caja",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "態": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "ヒ",
+                "ム",
+                "心"
+            ]
+        },
+        "系": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "卑": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "十"
+            ]
+        },
+        "怯": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "ム",
+                "土"
+            ]
+        },
+        "痛": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "マ"
+            ]
+        },
+        "安": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "葉": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "泣": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "嘘": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "胸": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas",
+                "curva",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "メ"
+            ]
+        },
+        "嫌": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "aspas",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "ネ": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "技": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "支"
+            ]
+        },
+        "鍛": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "cruzes"
+            ],
+            "similares": [
+                "又",
+                "壬"
+            ]
+        },
+        "又": {
+            "categorias": [
+                "dos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "鍛",
+                "メ",
+                "支",
+                "彼",
+                "疲",
+                "最",
+                "慢",
+                "服",
+                "努",
+                "経",
+                "獲",
+                "寝",
+                "段",
+                "坂",
+                "役",
+                "浸",
+                "返",
+                "度",
+                "報",
+                "波",
+                "取",
+                "受",
+                "反"
+            ]
+        },
+        "筋": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月",
+                "力"
+            ]
+        },
+        "題": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "駆": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "escalera",
+                "lineas",
+                "mismo_inicio_6"
+            ],
+            "similares": [
+                "馬"
+            ]
+        },
+        "落": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "ぞ": {
+            "categorias": [
+                "tres_trazos",
+                "dakuten_"
+            ],
+            "similares": [
+                "そ"
+            ]
+        },
+        "ユ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ュ"
+            ]
+        },
+        "独": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "次": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "俺": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "送": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": [
+                "天"
+            ]
+        },
+        "恥": {
+            "categorias": [
+                "lineas",
+                "escalera",
+                "muchos_trazos"
+            ],
+            "similares": [
+                "耳"
+            ]
+        },
+        "食": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "姫": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "aspas",
+                "mismo_inicio_7"
+            ],
+            "similares": [
+                "女"
+            ]
+        },
+        "遊": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "城": {
+            "categorias": [
+                "mismo_inicio_5",
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "便": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "メ"
+            ]
+        },
+        "忘": {
+            "categorias": [
+                "lineas",
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "騎": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "cuadrilatero",
+                "escalera",
+                "lineas",
+                "mismo_inicio_6"
+            ],
+            "similares": [
+                "馬",
+                "大"
+            ]
+        },
+        "狐": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "ぴ": {
+            "categorias": [
+                "un_trazo",
+                "handakuten_"
+            ],
+            "similares": [
+                "び",
+                "ひ"
+            ]
+        },
+        "反": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "応": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "菜": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "採": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda",
+                "lineas"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "驚": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "馬"
+            ]
+        },
+        "判": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "リ",
+                "半"
+            ]
+        },
+        "断": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "米"
+            ]
+        },
+        "米": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "断",
+                "木",
+                "謎",
+                "継"
+            ]
+        },
+        "試": {
+            "categorias": [
+                "parecidos_a_t",
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": [
+                "ェ"
+            ]
+        },
+        "心": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "悪",
+                "思",
+                "泌",
+                "恐",
+                "急",
+                "志",
+                "認",
+                "惚",
+                "態"
+            ]
+        },
+        "石": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "窯": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "壬"
+            ]
+        },
+        "火": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "人"
+            ]
+        },
+        "製": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "cruzes"
+            ],
+            "similares": [
+                "リ",
+                "木"
+            ]
+        },
+        "願": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": [
+                "小"
+            ]
+        },
+        "緑": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "mismoinicio1"
+            ],
+            "similares": [
+                "糸"
+            ]
+        },
+        "第": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "軍": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "車"
+            ]
+        },
+        "団": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "写": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "困": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes"
+            ],
+            "similares": [
+                "木"
+            ]
+        },
+        "兜": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "似": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "演": {
+            "categorias": [
+                "lineas",
+                "tres_trazos",
+                "caja"
+            ],
+            "similares": []
+        },
+        "印": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": []
+        },
+        "象": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "curva"
+            ],
+            "similares": []
+        },
+        "与": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": []
+        },
+        "推": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "curva",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "肌": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "mismoinicio4"
+            ],
+            "similares": [
+                "月"
+            ]
+        }
+    },
+    "categorias": [
+        {
+            "id": "un_trazo",
+            "nombre": "Un Trazo"
+        },
+        {
+            "id": "dos_trazos",
+            "nombre": "Dos Trazos"
+        },
+        {
+            "id": "tres_trazos",
+            "nombre": "Tres Trazos"
+        },
+        {
+            "id": "muchos_trazos",
+            "nombre": "Muchos Trazos"
+        },
+        {
+            "id": "signo",
+            "nombre": "Signo de Puntuación"
+        },
+        {
+            "id": "dakuten_",
+            "nombre": "Dakuten (゛)"
+        },
+        {
+            "id": "handakuten_",
+            "nombre": "Handakuten (゜)"
+        },
+        {
+            "id": "caja",
+            "nombre": "Caja"
+        },
+        {
+            "id": "escalera",
+            "nombre": "Escalera"
+        },
+        {
+            "id": "cuadrilatero",
+            "nombre": "Cuadrilátero"
+        },
+        {
+            "id": "cruzes",
+            "nombre": "Cruzes"
+        },
+        {
+            "id": "aspas",
+            "nombre": "Aspas"
+        },
+        {
+            "id": "estrella",
+            "nombre": "Estrella"
+        },
+        {
+            "id": "caritas",
+            "nombre": "Caritas"
+        },
+        {
+            "id": "check",
+            "nombre": "Inicia con check"
+        },
+        {
+            "id": "curva",
+            "nombre": "Una especie de Curva"
+        },
+        {
+            "id": "izquierda",
+            "nombre": "Misma Izquierda"
+        },
+        {
+            "id": "derecha",
+            "nombre": "Misma Derecha"
+        },
+        {
+            "id": "ambos",
+            "nombre": "Mismos ambos lados"
+        },
+        {
+            "id": "lineas",
+            "nombre": "(3+) Trazos Sueltos"
+        },
+        {
+            "id": "parecidos_a_t",
+            "nombre": "Parecidos a T"
+        },
+        {
+            "id": "mismo_inicio_1",
+            "nombre": "Inicia con 糸"
+        },
+        {
+            "id": "mismo_inicio_2",
+            "nombre": "Inicia con 木"
+        },
+        {
+            "id": "mismo_inicio_3",
+            "nombre": "Inicia con 走"
+        },
+        {
+            "id": "mismo_inicio_4",
+            "nombre": "Inicia con 月"
+        },
+        {
+            "id": "mismo_inicio_5",
+            "nombre": "Inicia con 士"
+        },
+        {
+            "id": "mismo_inicio_6",
+            "nombre": "Inicia con 馬"
+        },
+        {
+            "id": "mismo_inicio_7",
+            "nombre": "Inicia con 女"
+        },
+        {
+            "id": "mismo_inicio_8",
+            "nombre": "Inicia con 夕"
+        },
+        {
+            "id": "mismo_inicio_9",
+            "nombre": "Inicia con 禾"
+        },
+        {
+            "id": "mismo_inicio_10",
+            "nombre": "Inicia con 車"
+        }
+    ]
+}

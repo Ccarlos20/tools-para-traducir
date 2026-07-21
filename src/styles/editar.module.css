@@ -1,0 +1,200 @@
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.cardTitle {
+    background: #0d6efd;
+    color: white;
+    padding: .6rem 1rem;
+    font-weight: 600;
+}
+
+.cardBody {
+    padding: 1rem;
+}
+
+/* Layout */
+
+.editorLayout {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.sideColumn {
+    position: sticky;
+    top: 20px;
+    align-self: start;
+}
+
+.detector {
+    position: sticky;
+    top: 1rem;
+}
+
+@media (max-width: 1200px) {
+    .editorLayout {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Formularios */
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+.formGroup label {
+    font-weight: 600;
+}
+
+.inlineForm {
+    display: flex;
+    gap: .5rem;
+}
+
+.inlineForm input {
+    flex: 1;
+}
+
+.inlineForm button {
+    width: auto;
+}
+
+/* Filas y listas */
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: .75rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.row:last-child {
+    border-bottom: none;
+}
+
+.resultados {
+    margin-top: 1.5rem;
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.detectorResultados {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.row span {
+    font-size: 1.5rem;
+}
+
+/* Botones */
+
+.primaryButton {
+    background: #198754;
+}
+
+.primaryButton:hover {
+    background: #157347;
+}
+
+.warningButton {
+    background: #0d6efd;
+}
+
+.warningButton:hover {
+    background: #0b5ed7;
+}
+
+.dangerButton {
+    background: #dc3545;
+}
+
+.dangerButton:hover {
+    background: #bb2d3b;
+}
+
+.characterButton {
+    font-size: 1.5rem;
+    padding: .25rem .75rem;
+    min-width: 3rem;
+}
+
+/* Editor de caracteres */
+
+.characterPreview {
+    font-size: 3rem;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+}
+
+/* Selector de categorías */
+
+.categoryList {
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: .25rem;
+}
+
+.categoryItem {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+}
+
+.categoryItem input {
+    width: auto;
+    flex: 0 0 auto;
+}
+
+.categoryItem span {
+    flex: 1;
+    word-break: break-word;
+}
+
+/* Gestor de categorías */
+
+.categoryRow {
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    padding: 1rem;
+}
+
+.categoryInfo {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+.categoryButtons {
+    display: flex;
+    gap: .5rem;
+    margin-top: .75rem;
+}
+
+/* Importación */
+
+.importExportButtons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}

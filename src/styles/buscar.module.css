@@ -1,0 +1,178 @@
+.topLayout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.bottomLayout {
+    display: grid;
+    grid-template-columns: 220px 320px 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+@media (max-width: 1000px) {
+
+    .topLayout,
+    .bottomLayout {
+        grid-template-columns: 1fr;
+    }
+}
+
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.cardTitle {
+    background: #0d6efd;
+    color: white;
+    padding: .6rem 1rem;
+    font-weight: 600;
+}
+
+.cardBody {
+    padding: 1rem;
+}
+
+.cardBody textarea {
+    width: 100%;
+    min-height: 90px;
+    resize: vertical;
+}
+
+.cardBody h4 {
+    margin-top: 1.25rem;
+    margin-bottom: .5rem;
+}
+
+.cardBody h4:first-child {
+    margin-top: 0;
+}
+
+.resultados {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    padding: 1rem;
+}
+
+.resultadosScrollable {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    max-height: 200px;
+    overflow-y: auto;
+    padding: .5rem;
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+}
+
+.character {
+    min-width: 40px;
+    min-height: 40px;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    background: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: .15s;
+    color: #000;
+}
+
+.character:hover {
+    background: #e9ecef;
+    color: #000;
+}
+
+.selected {
+    background: #198754;
+    color: white;
+}
+
+.characterList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    max-height: 600px;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+/* ---------- Filtros ---------- */
+
+.filterGroup {
+    display: flex;
+    flex-direction: column;
+    gap: .45rem;
+}
+
+.filterGroup:not(:last-child) {
+    margin-bottom: 1rem;
+}
+
+.filterGroup label {
+    font-weight: 600;
+    color: #495057;
+}
+
+.select,
+.numberInput {
+    padding: .6rem .75rem;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    font: inherit;
+    background: white;
+    transition:
+        border-color .15s,
+        box-shadow .15s;
+}
+
+.select {
+    width: 100%;
+    cursor: pointer;
+}
+
+.numberInput {
+    width: 110px;
+    text-align: center;
+}
+
+.select:focus,
+.numberInput:focus {
+    outline: none;
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 .2rem rgba(13, 110, 253, .15);
+}
+
+.categoryList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+
+.categoryButton {
+    padding: .45rem .8rem;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    background: white;
+    color: #000;
+    cursor: pointer;
+    transition: .15s;
+}
+
+.categoryButton:hover {
+    background: #e9ecef;
+}
+
+.similarList {
+    padding-left: 1.5rem;
+    margin-top: .5rem;
+}
+
+.similarList li {
+    margin-bottom: .35rem;
+}
