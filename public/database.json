@@ -27,7 +27,8 @@
                 "好",
                 "乳",
                 "孵",
-                "遊"
+                "遊",
+                "学"
             ]
         },
         "宮": {
@@ -386,7 +387,8 @@
                 "犬",
                 "臭",
                 "因",
-                "騎"
+                "騎",
+                "衣"
             ]
         },
         "切": {
@@ -939,7 +941,8 @@
                 "短",
                 "快",
                 "潜",
-                "狭"
+                "狭",
+                "失"
             ]
         },
         "寒": {
@@ -1880,7 +1883,8 @@
                 "験",
                 "駆",
                 "騎",
-                "驚"
+                "驚",
+                "騒"
             ]
         },
         "鹿": {
@@ -5113,7 +5117,8 @@
                 "地",
                 "境",
                 "増",
-                "城"
+                "城",
+                "装"
             ]
         },
         "接": {
@@ -6008,7 +6013,8 @@
                 "cruzes",
                 "escalera",
                 "lineas",
-                "muchos_trazos"
+                "muchos_trazos",
+                "izquierda"
             ],
             "similares": [
                 "又"
@@ -6653,7 +6659,8 @@
                 "和",
                 "積",
                 "種",
-                "稚"
+                "稚",
+                "業"
             ]
         },
         "車": {
@@ -7418,7 +7425,8 @@
                 "波",
                 "取",
                 "受",
-                "反"
+                "反",
+                "騒"
             ]
         },
         "筋": {
@@ -7893,6 +7901,116 @@
             ],
             "similares": [
                 "月"
+            ]
+        },
+        "失": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "estrella",
+                "curva"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "業": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "禾"
+            ]
+        },
+        "残": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "aspas",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "房": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "学": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "子"
+            ]
+        },
+        "騒": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "aspas",
+                "lineas",
+                "mismo_inicio_6"
+            ],
+            "similares": [
+                "馬",
+                "又",
+                "虫"
+            ]
+        },
+        "虫": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "騒"
+            ]
+        },
+        "具": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "滅": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "装": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "estrella"
+            ],
+            "similares": [
+                "士",
+                "衣"
+            ]
+        },
+        "衣": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "装",
+                "大"
             ]
         }
     },
