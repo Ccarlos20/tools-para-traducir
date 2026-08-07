@@ -301,7 +301,9 @@
                 "un_trazo",
                 "signo"
             ],
-            "similares": []
+            "similares": [
+                "ヽ"
+            ]
         },
         "漂": {
             "categorias": [
@@ -942,7 +944,8 @@
                 "快",
                 "潜",
                 "狭",
-                "失"
+                "失",
+                "難"
             ]
         },
         "寒": {
@@ -1545,7 +1548,9 @@
             "categorias": [
                 "dos_trazos"
             ],
-            "similares": []
+            "similares": [
+                "ァ"
+            ]
         },
         "早": {
             "categorias": [
@@ -2239,7 +2244,8 @@
                 "舌",
                 "台",
                 "落",
-                "石"
+                "石",
+                "略"
             ]
         },
         "ボ": {
@@ -8012,6 +8018,94 @@
                 "装",
                 "大"
             ]
+        },
+        "ァ": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "ア"
+            ]
+        },
+        "略": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "caja",
+                "cuadrilatero",
+                "aspas"
+            ],
+            "similares": [
+                "ロ"
+            ]
+        },
+        "難": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "夫"
+            ]
+        },
+        "易": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "登": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "録": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "金"
+            ]
+        },
+        "金": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "録"
+            ]
+        },
+        "是": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": []
+        },
+        "ヽ": {
+            "categorias": [
+                "un_trazo",
+                "signo"
+            ],
+            "similares": [
+                "、"
+            ]
+        },
+        "誠": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "aspas",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
         }
     },
     "categorias": [
