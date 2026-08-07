@@ -28,7 +28,8 @@
                 "乳",
                 "孵",
                 "遊",
-                "学"
+                "学",
+                "了"
             ]
         },
         "宮": {
@@ -8106,6 +8107,21 @@
                 "izquierda"
             ],
             "similares": []
+        },
+        "距": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
+        },
+        "了": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "子"
+            ]
         }
     },
     "categorias": [
