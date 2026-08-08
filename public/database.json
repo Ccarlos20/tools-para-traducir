@@ -391,7 +391,9 @@
                 "臭",
                 "因",
                 "騎",
-                "衣"
+                "衣",
+                "契",
+                "奨"
             ]
         },
         "切": {
@@ -436,7 +438,8 @@
                 "要",
                 "努",
                 "姿",
-                "姫"
+                "姫",
+                "務"
             ]
         },
         "を": {
@@ -497,7 +500,8 @@
                 "cruzes"
             ],
             "similares": [
-                "力"
+                "力",
+                "務"
             ]
         },
         "メ": {
@@ -759,7 +763,8 @@
             "categorias": [
                 "muchos_trazos",
                 "cruzes",
-                "mismoinicio3"
+                "mismoinicio3",
+                "mismo_inicio_3"
             ],
             "similares": [
                 "走"
@@ -880,7 +885,8 @@
                 "歩",
                 "雌",
                 "証",
-                "誕"
+                "誕",
+                "肯"
             ]
         },
         "ト": {
@@ -994,7 +1000,8 @@
                 "cruzes",
                 "escalera",
                 "aspas",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "日",
@@ -1271,7 +1278,8 @@
                 "散",
                 "胸",
                 "筋",
-                "肌"
+                "肌",
+                "明"
             ]
         },
         "後": {
@@ -1386,7 +1394,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "cuadrilatero",
-                "mismoinicio3"
+                "mismoinicio3",
+                "mismo_inicio_3"
             ],
             "similares": [
                 "走"
@@ -1707,7 +1716,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "aspas",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -2092,7 +2102,8 @@
             "categorias": [
                 "muchos_trazos",
                 "cruzes",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -2165,7 +2176,8 @@
             "similares": [
                 "ボ",
                 "ポ",
-                "余"
+                "余",
+                "寂"
             ]
         },
         "シ": {
@@ -2246,7 +2258,8 @@
                 "台",
                 "落",
                 "石",
-                "略"
+                "略",
+                "語"
             ]
         },
         "ボ": {
@@ -2420,7 +2433,8 @@
                 "muchos_trazos",
                 "escalera",
                 "aspas",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -2750,7 +2764,8 @@
                 "muchos_trazos",
                 "escalera",
                 "cruzes",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "目",
@@ -2788,7 +2803,8 @@
                 "撤",
                 "濁",
                 "態",
-                "怯"
+                "怯",
+                "治"
             ]
         },
         "ダ": {
@@ -2841,7 +2857,8 @@
                 "estrella",
                 "escalera",
                 "cruzes",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "大",
@@ -3345,7 +3362,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "aspas",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "土",
@@ -3642,7 +3660,8 @@
                 "cuadrilatero",
                 "cruzes",
                 "aspas",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木",
@@ -3727,7 +3746,8 @@
                 "muchos_trazos",
                 "escalera",
                 "aspas",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月"
@@ -4180,7 +4200,8 @@
                 "muchos_trazos",
                 "aspas",
                 "escalera",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "女",
@@ -4429,7 +4450,8 @@
                 "muchos_trazos",
                 "caja",
                 "cruzes",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -4547,7 +4569,8 @@
         "崩": {
             "categorias": [
                 "muchos_trazos",
-                "escalera"
+                "escalera",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月"
@@ -4817,7 +4840,8 @@
                 "cuadrilatero",
                 "cruzes",
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "木",
@@ -4947,7 +4971,8 @@
                 "cuadrilatero"
             ],
             "similares": [
-                "ロ"
+                "ロ",
+                "治"
             ]
         },
         "説": {
@@ -4991,7 +5016,8 @@
             "categorias": [
                 "muchos_trazos",
                 "aspas",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -5002,7 +5028,8 @@
                 "cuadrilatero",
                 "cruzes",
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "土",
@@ -5022,7 +5049,8 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "escalera",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "ム",
@@ -5057,7 +5085,8 @@
             "categorias": [
                 "muchos_trazos",
                 "curva",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -5093,7 +5122,8 @@
                 "escalera",
                 "estrella",
                 "cruzes",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -5219,7 +5249,8 @@
                 "muchos_trazos",
                 "escalera",
                 "curva",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -5242,7 +5273,8 @@
             "categorias": [
                 "aspas",
                 "cruzes",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "ム",
@@ -5293,7 +5325,9 @@
                 "尊",
                 "耐",
                 "噂",
-                "団"
+                "団",
+                "守",
+                "奨"
             ]
         },
         "土": {
@@ -5332,7 +5366,8 @@
                 "十",
                 "種",
                 "壺",
-                "怯"
+                "怯",
+                "室"
             ]
         },
         "限": {
@@ -5493,7 +5528,8 @@
                 "escalera",
                 "caja",
                 "cruzes",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -5569,7 +5605,8 @@
                 "cruzes",
                 "cuadrilatero",
                 "muchos_trazos",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -5786,7 +5823,8 @@
                 "lineas",
                 "curva",
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -5850,7 +5888,8 @@
                 "lineas",
                 "cruzes",
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -5924,7 +5963,8 @@
                 "cruzes",
                 "curva",
                 "muchos_trazos",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -6039,7 +6079,8 @@
             "categorias": [
                 "escalera",
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "水",
@@ -6112,7 +6153,8 @@
                 "cruzes",
                 "aspas",
                 "muchos_trazos",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -6257,7 +6299,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "escalera",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -6436,7 +6479,8 @@
         "網": {
             "categorias": [
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "ェ",
@@ -6449,7 +6493,8 @@
                 "escalera",
                 "mismoinicio1",
                 "cruzes",
-                "curva"
+                "curva",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -6500,7 +6545,8 @@
                 "mismoinicio2",
                 "muchos_trazos",
                 "cruzes",
-                "escalera"
+                "escalera",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -6806,7 +6852,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "curva",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -6844,7 +6891,8 @@
                 "muchos_trazos",
                 "aspas",
                 "lineas",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "メ",
@@ -6888,7 +6936,8 @@
                 "muchos_trazos",
                 "escalera",
                 "curva",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月"
@@ -7013,7 +7062,8 @@
         "紛": {
             "categorias": [
                 "muchos_trazos",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -7190,7 +7240,8 @@
                 "muchos_trazos",
                 "cruzes",
                 "aspas",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -7227,7 +7278,8 @@
                 "cuadrilatero",
                 "cruzes",
                 "aspas",
-                "mismoinicio2"
+                "mismoinicio2",
+                "mismo_inicio_2"
             ],
             "similares": [
                 "木"
@@ -7237,7 +7289,8 @@
             "categorias": [
                 "muchos_trazos",
                 "cruzes",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸",
@@ -7357,7 +7410,8 @@
                 "escalera",
                 "aspas",
                 "curva",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -7433,7 +7487,8 @@
                 "取",
                 "受",
                 "反",
-                "騒"
+                "騒",
+                "寂"
             ]
         },
         "筋": {
@@ -7441,7 +7496,8 @@
                 "muchos_trazos",
                 "escalera",
                 "cruzes",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月",
@@ -7795,7 +7851,8 @@
             "categorias": [
                 "muchos_trazos",
                 "lineas",
-                "mismoinicio1"
+                "mismoinicio1",
+                "mismo_inicio_1"
             ],
             "similares": [
                 "糸"
@@ -7904,7 +7961,8 @@
             "categorias": [
                 "muchos_trazos",
                 "escalera",
-                "mismoinicio4"
+                "mismoinicio4",
+                "mismo_inicio_4"
             ],
             "similares": [
                 "月"
@@ -8122,6 +8180,205 @@
             "similares": [
                 "子"
             ]
+        },
+        "記": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "室": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "土"
+            ]
+        },
+        "迎": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "肯": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "止"
+            ]
+        },
+        "守": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "寸"
+            ]
+        },
+        "責": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "王",
+                "貝"
+            ]
+        },
+        "王": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "責"
+            ]
+        },
+        "貝": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "責"
+            ]
+        },
+        "務": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "izquierda"
+            ],
+            "similares": [
+                "女",
+                "カ",
+                "矛"
+            ]
+        },
+        "矛": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "務"
+            ]
+        },
+        "明": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "月"
+            ]
+        },
+        "寂": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "ホ",
+                "又"
+            ]
+        },
+        "弾": {
+            "categorias": [
+                "muchos_trazos",
+                "caja",
+                "cruzes",
+                "lineas",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "語": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "ロ",
+                "五"
+            ]
+        },
+        "五": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes"
+            ],
+            "similares": [
+                "語"
+            ]
+        },
+        "退": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "治": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": [
+                "口",
+                "ム"
+            ]
+        },
+        "契": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "cruzes"
+            ],
+            "similares": [
+                "大",
+                "刀"
+            ]
+        },
+        "刀": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": [
+                "契"
+            ]
+        },
+        "奨": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella",
+                "lineas"
+            ],
+            "similares": [
+                "大",
+                "寸"
+            ]
+        },
+        "絵": {
+            "categorias": [
+                "muchos_trazos",
+                "mismo_inicio_1"
+            ],
+            "similares": []
         }
     },
     "categorias": [
