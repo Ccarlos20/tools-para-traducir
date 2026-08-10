@@ -582,7 +582,30 @@
                 "cuadrilatero"
             ],
             "similares": [
-                "ロ"
+                "ロ",
+                "罰",
+                "議",
+                "誘",
+                "諾",
+                "調",
+                "誰",
+                "話",
+                "読",
+                "識",
+                "誤",
+                "謡",
+                "説",
+                "諸",
+                "許",
+                "討",
+                "証",
+                "認",
+                "誕",
+                "謎",
+                "評",
+                "試",
+                "誠",
+                "記"
             ]
         },
         "み": {
@@ -1167,9 +1190,11 @@
                 "cuadrilatero",
                 "cruzes",
                 "aspas",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "今": {
             "categorias": [
@@ -1771,9 +1796,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "承": {
             "categorias": [
@@ -1787,9 +1814,11 @@
                 "muchos_trazos",
                 "aspas",
                 "cuadrilatero",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "ょ": {
             "categorias": [
@@ -2083,9 +2112,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "教": {
             "categorias": [
@@ -2302,7 +2333,8 @@
                 "則",
                 "例",
                 "判",
-                "製"
+                "製",
+                "罰"
             ]
         },
         "働": {
@@ -2482,10 +2514,12 @@
                 "cuadrilatero",
                 "cruzes",
                 "escalera",
-                "izquierda",
-                "derecha"
+                "derecha",
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "仲": {
             "categorias": [
@@ -3512,10 +3546,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda"
+                "mismo_inicio_11"
             ],
             "similares": [
-                "ロ"
+                "ロ",
+                "言"
             ]
         },
         "息": {
@@ -3690,9 +3725,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "探": {
             "categorias": [
@@ -4255,13 +4292,15 @@
         },
         "識": {
             "categorias": [
-                "izquierda",
                 "aspas",
                 "cruzes",
                 "escalera",
-                "derecha"
+                "derecha",
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "孕": {
             "categorias": [
@@ -4381,12 +4420,14 @@
         },
         "誤": {
             "categorias": [
-                "izquierda",
                 "muchos_trazos",
                 "lineas",
-                "cuadrilatero"
+                "cuadrilatero",
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "赤": {
             "categorias": [
@@ -4826,13 +4867,14 @@
         },
         "謡": {
             "categorias": [
-                "izquierda",
                 "muchos_trazos",
                 "cruzes",
-                "cuadrilatero"
+                "cuadrilatero",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "山"
+                "山",
+                "言"
             ]
         },
         "繰": {
@@ -4977,11 +5019,13 @@
         },
         "説": {
             "categorias": [
-                "izquierda",
                 "cuadrilatero",
-                "muchos_trazos"
+                "muchos_trazos",
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "座": {
             "categorias": [
@@ -5400,13 +5444,14 @@
         },
         "諸": {
             "categorias": [
-                "izquierda",
                 "muchos_trazos",
-                "escalera"
+                "escalera",
+                "mismo_inicio_11"
             ],
             "similares": [
                 "日",
-                "十"
+                "十",
+                "言"
             ]
         },
         "刃": {
@@ -5615,13 +5660,14 @@
         },
         "許": {
             "categorias": [
-                "izquierda",
                 "cruzes",
                 "curva",
-                "muchos_trazos"
+                "muchos_trazos",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "干"
+                "干",
+                "言"
             ]
         },
         "卵": {
@@ -6014,11 +6060,12 @@
                 "cuadrilatero",
                 "parecidos_a_t",
                 "lineas",
-                "izquierda",
-                "muchos_trazos"
+                "muchos_trazos",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "寸"
+                "寸",
+                "言"
             ]
         },
         "度": {
@@ -6098,12 +6145,13 @@
         },
         "証": {
             "categorias": [
-                "izquierda",
                 "cuadrilatero",
-                "muchos_trazos"
+                "muchos_trazos",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "止"
+                "止",
+                "言"
             ]
         },
         "惨": {
@@ -6522,15 +6570,16 @@
         },
         "認": {
             "categorias": [
-                "izquierda",
                 "lineas",
                 "aspas",
                 "cuadrilatero",
-                "muchos_trazos"
+                "muchos_trazos",
+                "mismo_inicio_11"
             ],
             "similares": [
                 "メ",
-                "心"
+                "心",
+                "言"
             ]
         },
         "族": {
@@ -6923,12 +6972,13 @@
             "categorias": [
                 "muchos_trazos",
                 "aspas",
-                "izquierda",
-                "cuadrilatero"
+                "cuadrilatero",
+                "mismo_inicio_11"
             ],
             "similares": [
                 "メ",
-                "止"
+                "止",
+                "言"
             ]
         },
         "胞": {
@@ -7074,11 +7124,12 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda",
-                "lineas"
+                "lineas",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "米"
+                "米",
+                "言"
             ]
         },
         "原": {
@@ -7252,11 +7303,12 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "cruzes",
-                "izquierda",
-                "lineas"
+                "lineas",
+                "mismo_inicio_11"
             ],
             "similares": [
-                "干"
+                "干",
+                "言"
             ]
         },
         "噂": {
@@ -7776,10 +7828,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "lineas",
-                "izquierda"
+                "mismo_inicio_11"
             ],
             "similares": [
-                "ェ"
+                "ェ",
+                "言"
             ]
         },
         "心": {
@@ -8162,9 +8215,11 @@
                 "cuadrilatero",
                 "aspas",
                 "lineas",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "距": {
             "categorias": [
@@ -8186,9 +8241,11 @@
                 "muchos_trazos",
                 "cuadrilatero",
                 "lineas",
-                "izquierda"
+                "mismo_inicio_11"
             ],
-            "similares": []
+            "similares": [
+                "言"
+            ]
         },
         "室": {
             "categorias": [
@@ -8250,7 +8307,8 @@
                 "escalera"
             ],
             "similares": [
-                "責"
+                "責",
+                "貴"
             ]
         },
         "務": {
@@ -8379,6 +8437,28 @@
                 "mismo_inicio_1"
             ],
             "similares": []
+        },
+        "貴": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "貝"
+            ]
+        },
+        "罰": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "mismo_inicio_11",
+                "lineas"
+            ],
+            "similares": [
+                "リ",
+                "言"
+            ]
         }
     },
     "categorias": [
@@ -8505,6 +8585,10 @@
         {
             "id": "mismo_inicio_10",
             "nombre": "Inicia con 車"
+        },
+        {
+            "id": "mismo_inicio_11",
+            "nombre": "Inicia con 言"
         }
     ]
 }
