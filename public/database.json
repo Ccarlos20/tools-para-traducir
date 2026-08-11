@@ -925,7 +925,9 @@
                 "tres_trazos",
                 "caritas"
             ],
-            "similares": []
+            "similares": [
+                "ッ"
+            ]
         },
         "つ": {
             "categorias": [
@@ -2309,7 +2311,9 @@
                 "tres_trazos",
                 "caritas"
             ],
-            "similares": []
+            "similares": [
+                "ツ"
+            ]
         },
         "家": {
             "categorias": [
@@ -5199,7 +5203,8 @@
                 "境",
                 "増",
                 "城",
-                "装"
+                "装",
+                "基"
             ]
         },
         "接": {
@@ -6639,7 +6644,9 @@
                 "muchos_trazos",
                 "escalera"
             ],
-            "similares": []
+            "similares": [
+                "道"
+            ]
         },
         "ぶ": {
             "categorias": [
@@ -8308,7 +8315,8 @@
             ],
             "similares": [
                 "責",
-                "貴"
+                "貴",
+                "賞"
             ]
         },
         "務": {
@@ -8459,6 +8467,48 @@
                 "リ",
                 "言"
             ]
+        },
+        "賞": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "貝"
+            ]
+        },
+        "道": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera"
+            ],
+            "similares": [
+                "首"
+            ]
+        },
+        "万": {
+            "categorias": [
+                "tres_trazos"
+            ],
+            "similares": []
+        },
+        "基": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "局": {
+            "categorias": [
+                "tres_trazos",
+                "cuadrilatero"
+            ],
+            "similares": []
         }
     },
     "categorias": [
