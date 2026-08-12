@@ -1986,7 +1986,8 @@
             ],
             "similares": [
                 "咲",
-                "送"
+                "送",
+                "笑"
             ]
         },
         "外": {
@@ -8509,6 +8510,15 @@
                 "cuadrilatero"
             ],
             "similares": []
+        },
+        "笑": {
+            "categorias": [
+                "muchos_trazos",
+                "estrella"
+            ],
+            "similares": [
+                "天"
+            ]
         }
     },
     "categorias": [
