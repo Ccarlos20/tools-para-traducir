@@ -717,7 +717,8 @@
             ],
             "similares": [
                 "逆",
-                "謡"
+                "謡",
+                "密"
             ]
         },
         "耳": {
@@ -1516,7 +1517,9 @@
                 "muchos_trazos",
                 "cruzes"
             ],
-            "similares": []
+            "similares": [
+                "幽"
+            ]
         },
         "真": {
             "categorias": [
@@ -5205,7 +5208,8 @@
                 "増",
                 "城",
                 "装",
-                "基"
+                "基",
+                "週"
             ]
         },
         "接": {
@@ -6770,7 +6774,8 @@
                 "積",
                 "種",
                 "稚",
-                "業"
+                "業",
+                "秘"
             ]
         },
         "車": {
@@ -7857,7 +7862,8 @@
                 "志",
                 "認",
                 "惚",
-                "態"
+                "態",
+                "必"
             ]
         },
         "石": {
@@ -8426,7 +8432,8 @@
                 "dos_trazos"
             ],
             "similares": [
-                "契"
+                "契",
+                "雰"
             ]
         },
         "奨": {
@@ -8518,6 +8525,78 @@
             ],
             "similares": [
                 "天"
+            ]
+        },
+        "幽": {
+            "categorias": [
+                "muchos_trazos"
+            ],
+            "similares": [
+                "出"
+            ]
+        },
+        "霊": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero",
+                "lineas"
+            ],
+            "similares": []
+        },
+        "雰": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "刀"
+            ]
+        },
+        "週": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "cruzes"
+            ],
+            "similares": [
+                "士"
+            ]
+        },
+        "秘": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "必",
+                "禾"
+            ]
+        },
+        "必": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": [
+                "秘",
+                "心",
+                "密"
+            ]
+        },
+        "密": {
+            "categorias": [
+                "muchos_trazos",
+                "aspas",
+                "lineas"
+            ],
+            "similares": [
+                "必",
+                "山"
             ]
         }
     },
