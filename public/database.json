@@ -439,7 +439,8 @@
                 "努",
                 "姿",
                 "姫",
-                "務"
+                "務",
+                "奴"
             ]
         },
         "を": {
@@ -1380,7 +1381,8 @@
                 "惜",
                 "普",
                 "潜",
-                "諸"
+                "諸",
+                "稽"
             ]
         },
         "呼": {
@@ -1518,7 +1520,8 @@
                 "cruzes"
             ],
             "similares": [
-                "幽"
+                "幽",
+                "拙"
             ]
         },
         "真": {
@@ -4111,7 +4114,8 @@
             "similares": [
                 "ピ",
                 "ビ",
-                "態"
+                "態",
+                "稽"
             ]
         },
         "姿": {
@@ -5022,7 +5026,8 @@
             ],
             "similares": [
                 "ロ",
-                "治"
+                "治",
+                "古"
             ]
         },
         "説": {
@@ -6705,7 +6710,8 @@
                 "由",
                 "都",
                 "卑",
-                "支"
+                "支",
+                "古"
             ]
         },
         "規": {
@@ -6775,7 +6781,8 @@
                 "種",
                 "稚",
                 "業",
-                "秘"
+                "秘",
+                "稽"
             ]
         },
         "車": {
@@ -7553,7 +7560,8 @@
                 "受",
                 "反",
                 "騒",
-                "寂"
+                "寂",
+                "奴"
             ]
         },
         "筋": {
@@ -8602,6 +8610,78 @@
         "久": {
             "categorias": [
                 "tres_trazos"
+            ],
+            "similares": []
+        },
+        "術": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas",
+                "parecidos_a_t",
+                "izquierda"
+            ],
+            "similares": []
+        },
+        "稽": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "escalera",
+                "mismo_inicio_9"
+            ],
+            "similares": [
+                "禾",
+                "日",
+                "尤",
+                "ヒ"
+            ]
+        },
+        "尤": {
+            "categorias": [
+                "muchos_trazos",
+                "parecidos_a_t"
+            ],
+            "similares": [
+                "稽"
+            ]
+        },
+        "古": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "cuadrilatero"
+            ],
+            "similares": [
+                "十",
+                "口"
+            ]
+        },
+        "奴": {
+            "categorias": [
+                "mismo_inicio_7",
+                "aspas"
+            ],
+            "similares": [
+                "女",
+                "又"
+            ]
+        },
+        "拙": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "izquierda"
+            ],
+            "similares": [
+                "出"
+            ]
+        },
+        "価": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "izquierda",
+                "curva"
             ],
             "similares": []
         }
