@@ -606,7 +606,8 @@
                 "評",
                 "試",
                 "誠",
-                "記"
+                "記",
+                "談"
             ]
         },
         "み": {
@@ -6823,7 +6824,8 @@
                 "採",
                 "米",
                 "製",
-                "困"
+                "困",
+                "禁"
             ]
         },
         "糸": {
@@ -7561,7 +7563,8 @@
                 "反",
                 "騒",
                 "寂",
-                "奴"
+                "奴",
+                "飯"
             ]
         },
         "筋": {
@@ -7898,7 +7901,8 @@
                 "muchos_trazos"
             ],
             "similares": [
-                "人"
+                "人",
+                "談"
             ]
         },
         "製": {
@@ -8684,6 +8688,64 @@
                 "curva"
             ],
             "similares": []
+        },
+        "律": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "cruzes",
+                "izquierda",
+                "curva"
+            ],
+            "similares": []
+        },
+        "飯": {
+            "categorias": [
+                "muchos_trazos",
+                "escalera",
+                "aspas"
+            ],
+            "similares": [
+                "又"
+            ]
+        },
+        "二": {
+            "categorias": [
+                "dos_trazos"
+            ],
+            "similares": []
+        },
+        "談": {
+            "categorias": [
+                "muchos_trazos",
+                "cuadrilatero",
+                "lineas",
+                "mismo_inicio_11"
+            ],
+            "similares": [
+                "火",
+                "言"
+            ]
+        },
+        "禁": {
+            "categorias": [
+                "muchos_trazos",
+                "cruzes",
+                "lineas"
+            ],
+            "similares": [
+                "示",
+                "木"
+            ]
+        },
+        "示": {
+            "categorias": [
+                "muchos_trazos",
+                "lineas"
+            ],
+            "similares": [
+                "禁"
+            ]
         }
     },
     "categorias": [
